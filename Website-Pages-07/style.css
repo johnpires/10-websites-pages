@@ -1,0 +1,58 @@
+.lines {
+    padding-left: 10px;
+    font-size: 20px;
+}
+
+#other {
+    display: none;
+}
+
+#text1 {
+    color: royalblue;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 14px;
+    font-size: 16px;
+}
+
+#text2 {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 14px;
+    font-size: 16px;
+}
+
+.avatar {
+    float: right;
+    border-radius: 100px;
+}
+
+a {
+    line-height: 2;
+    padding: 20px;
+    color: royalblue;
+    font-size: 13px;
+}
+
+.imgs {
+    text-align: center;
+}
+
+input {
+    margin: 4px;
+    border-radius: 100px;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #999;
+    width: 60%;
+}
+
+input:focus {
+    outline: none;
+}
+
+.material-icons {
+    padding: 8px;
+    color: #fff;
+    font-size: 30px;
+    border-radius: 100px;
+    background: royalblue;
+}
