@@ -16,8 +16,8 @@ CURSOS LINK 👇
 | 03  | [Website Pages-03](https://github.com/johnpires/10-websites-pages/tree/main/Website-Pages-03)      | Clique aqui |
 | 04  | [Website Pages-04](https://github.com/johnpires/10-websites-pages/tree/main/Website-Pages-04)      | Clique aqui |
 | 05  | [Website Pages-05](https://github.com/johnpires/10-websites-pages/tree/main/Website-Pages-05)      | Clique aqui |
-| 06  | [Website Pages-06]()      | Clique aqui |
-| 07  | [Website Pages-07]()      | Clique aqui |
+| 06  | [Website Pages-06](https://github.com/johnpires/10-websites-pages/tree/main/Website-Pages-06)      | Clique aqui |
+| 07  | [Website Pages-07](https://github.com/johnpires/10-websites-pages/tree/main/Website-Pages-07)      | Clique aqui |
 | 08  | [Website Pages-08]()      | Clique aqui |
 | 09  | [Website Pages-09]()      | Clique aqui |
 | 10  | [Website Pages-10]()      | Clique aqui |
